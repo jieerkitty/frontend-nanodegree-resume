@@ -9,8 +9,8 @@ var bio = {
 	"age":"26",
 	"role":"Web Developer",
 	"contacts":{
-		"mobile":"15810846033",
-		"email":"672194800@qq.com",
+		"mobile":"158****6033",
+		"email":"67****800@qq.com",
 		"github":"jieerkitty",
 		"location":"beijing"
 	},
